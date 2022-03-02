@@ -1,0 +1,36 @@
+ 757  cd Desktop/
+  758  mkdir git
+  759  cd git/
+  760  gedit 1.txt
+  761  gedit 2.txt
+  762  git init
+  763  gedit add
+  764* 
+  765  git add -a
+  766  git add .
+  767  git commit
+  768  git add .
+  769  git commit -a
+  770  git commit 1.txt -m
+  771  git commit 1.txt -m "hello\"
+git commit 1.txt -m "hello"
+
+\x
+\\\
+
+
+
+
+
+
+  772  clear
+  773  git commit 1.txt -m "hello"
+  774  git commit 2.txt -m "hello"
+  775  git status
+  776  git status.
+  777  git status
+  778  git remote add origin https://github.com/aneeshv9/devopslab.git
+  779  git push -u origin master
+  780  git status
+  781  history
+
